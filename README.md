@@ -22,5 +22,7 @@
   ![Number Sorter](./images/number-sorter.png)
   - **_Statistics Calculator_**
     ![Statistics](./images/statistics-calculator.png)
+- **_Spam Filter_**
+  ![Spam Filter](./images/spam-filter.png)
 
 **Projects can be found at:** [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
